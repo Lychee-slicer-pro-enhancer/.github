@@ -56,10 +56,10 @@ Improve Lychee Slicer with enhanced supports, auto-orientation, and mesh repair 
 ![Image 1](https://peopoly.net/cdn/shop/articles/Lychee_Slicer-Forge_800x.png?v=1688113044)
 *Auto-orientation and support preview*
 
-![Image 2](INSERT_IMAGE_URL_HERE)
+![Image 2](https://thelionstower.com/cdn/shop/articles/lychee_screenshot.png?v=1694037786)
 *Mesh repair in one click*
 
-![Image 3](INSERT_IMAGE_URL_HERE)
+![Image 3](https://www.3printr.com/wp-content/uploads/2022/07/lychee-640x414.jpg)
 *UI enhancements with theme options*
 
 ---

